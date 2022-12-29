@@ -111,3 +111,18 @@ Here's a list that can be used as a reference - please modify the prompts to get
 >From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed >of my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also >learned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
 >
 >Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
+
+
+### Questions to ask the Interviewer
+------------
+**what questions can I ask at the end of a job interview?**
+>Here are some questions that you can ask at the end of a job interview:
+>
+>1. Can you tell me more about the day-to-day responsibilities of this role?
+>2. How does this role fit into the overall mission and goals of the organization?
+>3. What are the opportunities for growth and development within the company?
+>5. Can you tell me more about the company culture and the team that I would be working with?
+>6. How does the company support its employees in terms of training and professional development?
+>7. Can you provide more details about the onboarding process for new hires?
+>8. Is there anything else that I can provide or elaborate on that would help you make your decision about my suitability for the role?
+>9. Asking questions at the end of the interview can show that you are interested in the job and the company, and it can also help you clarify any >uncertainties or gather more information about the role. It's important to ask questions that are relevant and appropriate, and to avoid asking >questions that have already been answered during the interview.
