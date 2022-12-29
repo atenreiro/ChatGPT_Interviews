@@ -9,9 +9,7 @@ Here's a list that can be used as a reference - please modify the prompts to get
 
 ### General Questions
 ------------
-```
 **Give me examples of interview questions and answers for a [Cloud Engineer] role.**
-```
 
 >Here are some examples of interview questions and answers for a Cloud Engineer role:
 >
