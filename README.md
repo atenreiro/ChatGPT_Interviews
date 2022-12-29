@@ -4,7 +4,7 @@ ChatGPT offers prompts that you can use to prepare for interviews or to craft a 
 
 Here's a list that can be used as a reference - please modify the prompts to get more tailor made results.
 
-**ℹ️ Note**: You are discouraged to copy/paste the answers. You should use them as a **guiding-reference** and adapt to your own and genuine answers.
+**ℹ️ Note**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine
 
 
 ### General Questions
