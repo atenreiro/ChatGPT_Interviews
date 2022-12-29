@@ -96,3 +96,9 @@ Here's a list that can be used as a reference - please modify the prompts to get
 >
 > Through this experience, I learned the importance of effective communication and finding a way to work through conflicts with colleagues. I now make a > point to have open and honest conversations with my team members when conflicts arise, and to find solutions that work for everyone.
 
+**answer this interview question: "tell me a time you failed and what have you learnt from it"**
+>One time I failed was when I was working on a project with a team at a previous job. We were tasked with creating a new feature for a software product >and I was in charge of a specific component of the project. However, I didn't properly communicate my progress and dependencies to the rest of the team, >and as a result, the project ended up being delayed.
+>
+>From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed >of my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also >learned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
+>
+>Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
