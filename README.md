@@ -30,6 +30,15 @@ Here's a list that can be used as a reference - please modify the prompts to get
 >Describe a project you worked on where you used cloud computing.
 >One project I worked on was the migration of a large e-commerce platform to the cloud. My team and I worked closely with the business to assess their >current infrastructure and determine the best approach for the migration. We then designed and implemented a new cloud-based architecture that provided >the scalability and performance needed to support the platform's growth. The migration was a success, and the business was able to realize significant >cost savings and improve their overall performance.
 
+**answer this interview question: "why do you want to work for this company?"**
+>There are several reasons why I want to work for this company.
+>
+>First and foremost, I am very impressed with the company's mission and values. I believe that the work the company is doing aligns with my own personal >goals and values, and I would be proud to be a part of such a mission-driven organization.
+>
+>Additionally, I have done some research on the company and have been impressed with the innovative products and services that it offers. I am confident >that working for this company would provide me with the opportunity to learn and grow as a professional, and to make a meaningful contribution to the >team and the company as a whole.
+>
+>Finally, I am drawn to the company's culture and the opportunities for career development and advancement. I believe that this company would be a great >fit for me personally, and I am excited about the prospect of joining the team and becoming a valuable member of the organization.
+
 ### Cultural Fit Questions
 ------------
 **give me examples and answers for cultural-fit questions interviews.**
