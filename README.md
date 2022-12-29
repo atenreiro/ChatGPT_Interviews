@@ -4,33 +4,32 @@ ChatGPT offers prompts that you can use to prepare for interviews or to craft a 
 
 Here's a list that can be used as a reference - please modify the prompts to get more tailor made results.
 
-**Note**: You are discouraged to copy/paste the answers. You should use them as a **guiding-reference** and write your own answers.
+**Note**: You are discouraged to copy/paste the answers. You should use them as a **guiding-reference** and adapt to your own and genuine answers.
 
 
 ### General Questions
 ------------
 **Give me examples of interview questions and answers for a [Cloud Engineer] role.**
 
-```
-Here are some examples of interview questions and answers for a Cloud Engineer role:
 
-1. How do you define cloud computing?
-Cloud computing is a model of delivering computing resources, including data storage, networking, software, analytics, and intelligence, over the internet (the cloud) on a pay-per-use basis. It allows businesses to access and use these resources without the need to build and maintain their own infrastructure.
-
-2. What are the benefits of using cloud computing?
-There are many benefits of using cloud computing, including reduced costs, increased scalability and flexibility, improved security and compliance, and faster deployment of new services and applications.
-
-4. How do you ensure the security of data in the cloud?
-There are several measures that can be taken to ensure the security of data in the cloud, including:
-
-* Encrypting data at rest and in transit
-* Implementing access controls and authentication protocols
-* Regularly monitoring for security threats and vulnerabilities
-* Ensuring compliance with relevant regulations and industry standards
-
-Describe a project you worked on where you used cloud computing.
-One project I worked on was the migration of a large e-commerce platform to the cloud. My team and I worked closely with the business to assess their current infrastructure and determine the best approach for the migration. We then designed and implemented a new cloud-based architecture that provided the scalability and performance needed to support the platform's growth. The migration was a success, and the business was able to realize significant cost savings and improve their overall performance.
-```
+>Here are some examples of interview questions and answers for a Cloud Engineer role:
+>
+>1. How do you define cloud computing?
+>Cloud computing is a model of delivering computing resources, including data storage, networking, software, analytics, and intelligence, over the >internet (the cloud) on a pay-per-use basis. It allows businesses to access and use these resources without the need to build and maintain their own >infrastructure.
+>
+>2. What are the benefits of using cloud computing?
+>There are many benefits of using cloud computing, including reduced costs, increased scalability and flexibility, improved security and compliance, and >faster deployment of new services and applications.
+>
+>4. How do you ensure the security of data in the cloud?
+>There are several measures that can be taken to ensure the security of data in the cloud, including:
+>
+>* Encrypting data at rest and in transit
+>* Implementing access controls and authentication protocols
+>* Regularly monitoring for security threats and vulnerabilities
+>* Ensuring compliance with relevant regulations and industry standards
+>
+>Describe a project you worked on where you used cloud computing.
+>One project I worked on was the migration of a large e-commerce platform to the cloud. My team and I worked closely with the business to assess their >current infrastructure and determine the best approach for the migration. We then designed and implemented a new cloud-based architecture that provided >the scalability and performance needed to support the platform's growth. The migration was a success, and the business was able to realize significant >cost savings and improve their overall performance.
 
 ### Cultural Fit Questions
 ------------
