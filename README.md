@@ -11,7 +11,6 @@ Here's a list that can be used as a reference - please modify the prompts to get
 ------------
 **Give me examples of interview questions and answers for a [Cloud Engineer] role.**
 
-
 >Here are some examples of interview questions and answers for a Cloud Engineer role:
 >
 >1. How do you define cloud computing?
@@ -52,7 +51,7 @@ Here's a list that can be used as a reference - please modify the prompts to get
 
 ### Project Management Questions
 ------------
-Give me examples of questions and answers asked during an interview for project management.
+**Give me examples of questions and answers asked during an interview for project management.**
 
 >Here are some examples of questions and answers that might be asked during an interview for a project management role:
 >
@@ -87,7 +86,7 @@ Give me examples of questions and answers asked during an interview for project 
 
 ### Storytelling / Scenario-based Questions
 ------------
-answer this interview question: "tell me a time you had a conflict with a colleague"
+**answer this interview question: "tell me a time you had a conflict with a colleague"**
 
 > One time that I had a conflict with a colleague was when we were working on a tight deadline for a client project. We had different approaches to tackling the project, and tensions started to rise as we got closer to the deadline.
 >
