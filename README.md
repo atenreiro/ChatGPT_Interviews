@@ -1,7 +1,11 @@
-# ChatGPT_Interviews
+# ChatGPT Prompts for Interview Preparation
+
 ChatGPT offers prompts that you can use to prepare for interviews or to craft a compelling resume.
 
 Here's a list that can be used as a reference - please modify the prompts to get more tailor made results.
+
+**Note**: You are discouraged to copy/paste the answers. You should use them as a **guiding-reference** and write your own answers.
+
 
 ### General Questions
 ------------
@@ -81,3 +85,16 @@ I believe that it's important to proactively identify and manage risks and issue
 * Regularly monitoring and reviewing risks and issues to ensure that they are being effectively managed
 * Communicating clearly with the team and stakeholders about any risks or issues and their impact on the project
 ```
+
+
+
+answer this interview question: "tell me a time you had a conflict with a colleague"
+
+> One time that I had a conflict with a colleague was when we were working on a tight deadline for a client project. We had different approaches to tackling the project, and tensions started to rise as we got closer to the deadline.
+>
+> I was focused on breaking the project down into smaller tasks and delegating them to the team, while my colleague preferred a more hands-on approach and wanted to do everything themselves. This led to some misunderstandings and miscommunications, and we ended up working at cross purposes.
+>
+> To resolve the conflict, we sat down and had a candid conversation about our different approaches and what was driving them. We were able to listen to > each other's perspectives and find a compromise that worked for both of us. We ended up completing the project on time and received positive feedback from the client.
+>
+> Through this experience, I learned the importance of effective communication and finding a way to work through conflicts with colleagues. I now make a > point to have open and honest conversations with my team members when conflicts arise, and to find solutions that work for everyone.
+
