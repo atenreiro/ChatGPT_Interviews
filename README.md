@@ -125,4 +125,5 @@ Here's a list that can be used as a reference - please modify the prompts to get
 >6. How does the company support its employees in terms of training and professional development?
 >7. Can you provide more details about the onboarding process for new hires?
 >8. Is there anything else that I can provide or elaborate on that would help you make your decision about my suitability for the role?
->9. Asking questions at the end of the interview can show that you are interested in the job and the company, and it can also help you clarify any >uncertainties or gather more information about the role. It's important to ask questions that are relevant and appropriate, and to avoid asking >questions that have already been answered during the interview.
+>
+>Asking questions at the end of the interview can show that you are interested in the job and the company, and it can also help you clarify any uncertainties or gather more information about the role. It's important to ask questions that are relevant and appropriate, and to avoid asking questions that have already been answered during the interview.
