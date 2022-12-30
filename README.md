@@ -154,3 +154,31 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >Through my leadership and strategic thinking, I have consistently delivered projects on time and within budget, while also exceeding client expectations. My strong communication skills and ability to work effectively with cross-functional teams have been instrumental in my success.
 >
 >I am passionate about using my expertise to drive positive change and make a lasting impact in the industry. I am confident that my skills and experience make me a valuable asset to any organization looking to drive growth and innovation."
+
+------------
+### Technical Questions
+------------
+**give examples of technical interview questions for the role of cloud engineer**
+>Here are some examples of technical interview questions that could be asked of a candidate for the role of cloud engineer:
+
+>1. How do you determine the right cloud platform for a given workload?
+>2. Can you explain the difference between horizontal and vertical scaling in the cloud?
+>3. How do you monitor the performance of a cloud-based application?
+>4. Can you describe a situation where you had to troubleshoot an issue with a cloud-based application? How did you go about it?
+>5. How do you secure a cloud-based application?
+>6. Can you explain the difference between IaaS, PaaS, and SaaS?
+>7. How do you migrate an on-premises application to the cloud?
+>8. Can you describe a cloud deployment model (e.g. public, private, hybrid)?
+>9. How do you optimize the cost of a cloud-based application?
+>10. Can you explain the concept of infrastructure as code? How do you implement it in a cloud environment?
+
+To get an example answer, try this: 
+**answer this interview question: "How do you determine the right cloud platform for a given workload?"**
+>There are several factors to consider when determining the right cloud platform for a given workload. Some key considerations might include:
+>* Cost: Different cloud platforms have different pricing models and cost structures, so it's important to carefully consider the total cost of ownership > when making a decision.
+>* Performance: Different cloud platforms offer different levels of performance, so it's important to consider the specific requirements of the workload and choose a platform that can meet those needs.
+>* Scalability: If the workload is expected to grow significantly over time, it's important to choose a cloud platform that can scale to meet those needs.
+>* Security: Different cloud platforms offer different security features and controls, so it's important to consider the specific security requirements of the workload and choose a platform that can provide the necessary protection.
+>* Compliance: If the workload is subject to any regulatory or compliance requirements, it's important to choose a cloud platform that can meet those requirements.
+> 
+>Overall, the key is to carefully assess the specific needs and requirements of the workload, and choose a cloud platform that can meet those needs in the most cost-effective and efficient way possible.
