@@ -21,7 +21,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 - [Culture Fit Questions](#culture-fit-questions)
 - [Technical Questions](#technical-questions)
 - [Project Management Questions](#project-management-questions)
-- [Storytelling / Scenario-based Questions](#storytellingscenariobased-Questions)
+- [Storytelling / Scenario-based Questions](#storytellingscenario-based-questions)
 - [Ask the Interviewer](#ask-the-interviewer)
 - [Personal Impact Statement](#personal-impact-statement)
 - [Amazon Leadership Principles](#amazon-leadership-principles)
