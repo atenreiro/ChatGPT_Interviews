@@ -18,7 +18,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 - [Storytelling / Scenario-based Questions](#StorytellingScenario-based-Questions)
 - [Ask the Interviewer](#ask-the-interviewer)
 - [Impact Statement](#impact-statement)
-------------
+
 
 
 
