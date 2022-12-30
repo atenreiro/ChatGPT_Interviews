@@ -15,7 +15,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 - [Culture Fit Questions](#culture-fit-questions)
 - [Project Management Questions](#project-management-questions)
 - [Architecture Questions](#architecture-fit-questions)
-- [Storytelling / Scenario-based Questions](#storytellingscenario-based-questions)
+- [Storytelling / Scenario-based Questions](#StorytellingScenario-based-Questions)
 - [Ask the Interviewer](#ask-the-interviewer)
 ------------
 
