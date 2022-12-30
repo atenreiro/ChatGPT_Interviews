@@ -268,3 +268,18 @@ Answer: When making decisions about costs and benefits, I try to consider both t
 >3. Question: Can you describe a time when you had to make a tough decision that prioritized the needs of customers over other stakeholders?
 >
 >Answer: One time I had to make a tough decision that prioritized the needs of customers was when I was working on a project to redesign a company's website. The project involved a number of stakeholders with different priorities and interests. One stakeholder group wanted to prioritize the inclusion of certain features and content, while another group wanted to focus on design and aesthetics. After careful consideration, I made the decision to prioritize the needs and feedback of our customers, who had expressed a desire for a more streamlined and user-friendly website. While this decision was not popular with all stakeholders, it ultimately led to a significant increase in customer satisfaction and engagement.
+
+#### Ownership
+**give me examples of interview questions and answers for the amazon ownership principle**
+
+>1. Question: Can you provide an example of a time when you took full ownership of a project or problem and were accountable for your results?
+>
+>Answer: One time I took full ownership of a project was when I was leading the development of a new software application at my previous company. I was responsible for overseeing the entire development process, from gathering requirements and designing the application to testing and deployment. I worked closely with the development team to ensure that the project was delivered on time and met all of the necessary requirements. When issues arose, I took ownership of finding solutions and ensuring that the project stayed on track. The application was successfully launched and received positive feedback from users.
+>
+>2. Question: How do you approach problem-solving when faced with challenges or roadblocks in your work?
+>
+>Answer: When faced with challenges or roadblocks, I try to take a proactive approach to problem-solving. This often involves breaking the problem down into smaller pieces and developing a plan of action to address each piece. I also try to involve relevant stakeholders and gather as much information as possible to help inform my decision-making. I am not afraid to take risks and try new approaches when necessary, but I also make sure to carefully consider the potential consequences of my actions.
+>
+>3. Question: How do you hold yourself and others accountable for meeting goals and achieving results?
+>
+>Answer: I hold myself and others accountable for meeting goals and achieving results by setting clear expectations and regularly reviewing progress. I make sure that everyone understands what is expected of them and have regular check-ins to track progress and provide feedback. When issues arise, I work with team members to identify the root cause and develop a plan to get back on track. I also make sure to recognize and reward individuals and teams for their contributions and achievements.
