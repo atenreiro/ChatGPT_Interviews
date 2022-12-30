@@ -11,9 +11,9 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 
 :star: If you like this repo, please **star** it.
 
+**:warning: Warning**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine. The most experienced interviewers will easily pick non-genuine or playbook answers.
 
-
-**:warning: Warning**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine. The most experienced interviewers will easily pick non-genuine or playbook answers. 
+This list was created and mainteined by Andre Tenreiro ([LinkedIn](https://www.linkedin.com/in/andretenreiro))
 
 ------------
 ### Table of Contents 
