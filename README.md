@@ -211,7 +211,7 @@ To get an example answer, try this:
 You can use personal impact statements for your CV cover letter (if applicable) or incoporate it as part of the "tell me about yourself..." question.
 
 **for my CV write a mission impact statement that highlights my 5 years of experience and multiple projects I delivered such as an E-Commerce platform.**
->Over the past 5 years, I have dedicated myself to delivering innovative and impactful projects that drive business growth and customer satisfaction. My >diverse skill set and experience in project management have allowed me to successfully lead and deliver multiple projects, including the development of >a comprehensive E-Commerce platform.
+>Over the past 5 years, I have dedicated myself to delivering innovative and impactful projects that drive business growth and customer satisfaction. My diverse skill set and experience in project management have allowed me to successfully lead and deliver multiple projects, including the development of a comprehensive E-Commerce platform.
 >
 >Through my leadership and strategic thinking, I have consistently delivered projects on time and within budget, while also exceeding client expectations. My strong communication skills and ability to work effectively with cross-functional teams have been instrumental in my success.
 >
