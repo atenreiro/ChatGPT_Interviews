@@ -17,6 +17,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 - [Architecture Questions](#architecture-fit-questions)
 - [Storytelling / Scenario-based Questions](#StorytellingScenario-based-Questions)
 - [Ask the Interviewer](#ask-the-interviewer)
+- [Impact Statement](#impact-statement)
 ------------
 
 
@@ -143,3 +144,13 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >8. Is there anything else that I can provide or elaborate on that would help you make your decision about my suitability for the role?
 >
 >Asking questions at the end of the interview can show that you are interested in the job and the company, and it can also help you clarify any uncertainties or gather more information about the role. It's important to ask questions that are relevant and appropriate, and to avoid asking questions that have already been answered during the interview.
+
+------------
+### Impact Statement
+------------
+**for my CV write a mission impact statement for a cloud engineer role**
+>Over the past 5 years, I have dedicated myself to delivering innovative and impactful projects that drive business growth and customer satisfaction. My >diverse skill set and experience in project management have allowed me to successfully lead and deliver multiple projects, including the development of >a comprehensive E-Commerce platform.
+>
+>Through my leadership and strategic thinking, I have consistently delivered projects on time and within budget, while also exceeding client expectations. My strong communication skills and ability to work effectively with cross-functional teams have been instrumental in my success.
+>
+>I am passionate about using my expertise to drive positive change and make a lasting impact in the industry. I am confident that my skills and >experience make me a valuable asset to any organization looking to drive growth and innovation."
