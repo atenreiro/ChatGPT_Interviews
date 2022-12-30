@@ -10,6 +10,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 **ℹ️ Note**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine.
 
 :point_right: Want to contribute to this list? Add your contribution as a **Pull request**.
+
 :star: If you like this repo, please **star** it.
 
 ------------
