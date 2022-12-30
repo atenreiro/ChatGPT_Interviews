@@ -2,7 +2,7 @@
 ------------
 
 ### Introduction
-ChatGPT offers prompts that you can use to prepare for interviews or to craft a compelling resume.
+[ChatGPT](https://chat.openai.com/) offers prompts that you can use to prepare for interviews or to craft a compelling resume.
 Here's a list that can be used as a reference - please modify the prompts to get more tailor made results.
 
 Modify the text inside the "[ ]" with the customised role or other information.
