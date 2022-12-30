@@ -11,11 +11,11 @@ Modify the text inside the "[ ]" with the customised role or other information.
 
 ------------
 ### Table of Contents 
-- [General Questions](#General-Questions)
+- [General Questions](#general-questions)
 - [Culture Fit Questions](#culture-fit-questions)
-- [Project Management Questions](#culture-fit-questions)
-- [Architecture Questions](#culture-fit-questions)
-- [Storytelling / Scenario-based Questions](#culture-fit-questions)
+- [Project Management Questions](#project-management-questions)
+- [Architecture Questions](#architecture-fit-questions)
+- [Storytelling / Scenario-based Questions](#storytellingscenario-based-questions)
 - [Ask the Interviewer](#ask-the-interviewer)
 ------------
 
@@ -52,7 +52,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >
 >Finally, I am drawn to the company's culture and the opportunities for career development and advancement. I believe that this company would be a great >fit for me personally, and I am excited about the prospect of joining the team and becoming a valuable member of the organization.
 
-### Cultural Fit Questions
+### Culture Fit Questions
 ------------
 **give me examples and answers for cultural-fit questions interviews.**
 
@@ -126,7 +126,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
 
 
-### Questions to ask the Interviewer
+### Ask the Interviewer
 ------------
 **what questions can I ask at the end of a job interview?**
 >Here are some questions that you can ask at the end of a job interview:
