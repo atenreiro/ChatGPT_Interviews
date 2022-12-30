@@ -52,6 +52,8 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >
 >Finally, I am drawn to the company's culture and the opportunities for career development and advancement. I believe that this company would be a great >fit for me personally, and I am excited about the prospect of joining the team and becoming a valuable member of the organization.
 
+
+------------
 ### Culture Fit Questions
 ------------
 **give me examples and answers for cultural-fit questions interviews.**
@@ -65,12 +67,14 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >I believe that it's important to approach conflict or disagreement in a calm and respectful manner. I try to listen to the other person's perspective and >consider their concerns before offering my own. I also try to find common ground and look for solutions that are mutually beneficial. If necessary, I am >open to seeking mediation or outside help to resolve the issue.
 >
 >3. How do you approach teamwork and collaboration?
->I believe that teamwork and collaboration are essential for success in any organization. I enjoy working with others and value the diverse perspectives >and skills that team members bring to the table. I am a strong communicator and work well in both individual and team settings. I also try to foster an >open and inclusive environment where all team members feel comfortable sharing their ideas and concerns.
+>I believe that teamwork and collaboration are essential for success in any organization. I enjoy working with others and value the diverse perspectives and skills that team members bring to the table. I am a strong communicator and work well in both individual and team settings. I also try to foster an open and inclusive environment where all team members feel comfortable sharing their ideas and concerns.
 >
 >4. How do you handle challenging tasks or projects?
->I approach challenging tasks or projects with a positive attitude and a willingness to learn. I am a problem-solver and enjoy finding creative solutions >to difficult challenges. I also seek guidance and feedback from my colleagues and superiors when needed, and am open to seeking additional training or >resources to improve my skills and knowledge.
+>I approach challenging tasks or projects with a positive attitude and a willingness to learn. I am a problem-solver and enjoy finding creative solutions >to difficult challenges. I also seek guidance and feedback from my colleagues and superiors when needed, and am open to seeking additional training or resources to improve my skills and knowledge.
 >
 
+
+------------
 ### Project Management Questions
 ------------
 **Give me examples of questions and answers asked during an interview for project management.**
@@ -92,7 +96,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >
 >3. How do you prioritize tasks and allocate resources?
 >
->I prioritize tasks based on the importance and impact on the project's goals and objectives. I also consider factors such as deadlines, dependencies, and >resource constraints. To allocate resources, I consider the skills and expertise of team members, as well as any capacity constraints. I also try to >balance workloads and ensure that team members have the support and resources they need to complete their tasks effectively.
+>I prioritize tasks based on the importance and impact on the project's goals and objectives. I also consider factors such as deadlines, dependencies, and resource constraints. To allocate resources, I consider the skills and expertise of team members, as well as any capacity constraints. I also try to balance workloads and ensure that team members have the support and resources they need to complete their tasks effectively.
 >
 >4. How do you handle risks and issues in a project?
 >
@@ -104,8 +108,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >* Regularly monitoring and reviewing risks and issues to ensure that they are being effectively managed
 >* Communicating clearly with the team and stakeholders about any risks or issues and their impact on the project
 
-
-
+------------
 ### Storytelling / Scenario-based Questions
 ------------
 **answer this interview question: "tell me a time you had a conflict with a colleague"**
@@ -125,7 +128,7 @@ Modify the text inside the "[ ]" with the customised role or other information.
 >
 >Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
 
-
+------------
 ### Ask the Interviewer
 ------------
 **what questions can I ask at the end of a job interview?**
