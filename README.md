@@ -37,12 +37,12 @@ This list was created and mainteined by Andre Tenreiro ([LinkedIn](https://www.l
 >Here are some examples of interview questions and answers for a Cloud Engineer role:
 >
 >1. How do you define cloud computing?
->Cloud computing is a model of delivering computing resources, including data storage, networking, software, analytics, and intelligence, over the >internet (the cloud) on a pay-per-use basis. It allows businesses to access and use these resources without the need to build and maintain their own >infrastructure.
+>Cloud computing is a model of delivering computing resources, including data storage, networking, software, analytics, and intelligence, over the internet (the cloud) on a pay-per-use basis. It allows businesses to access and use these resources without the need to build and maintain their own infrastructure.
 >
 >2. What are the benefits of using cloud computing?
->There are many benefits of using cloud computing, including reduced costs, increased scalability and flexibility, improved security and compliance, and >faster deployment of new services and applications.
+>There are many benefits of using cloud computing, including reduced costs, increased scalability and flexibility, improved security and compliance, and faster deployment of new services and applications.
 >
->4. How do you ensure the security of data in the cloud?
+>4. How do you ensure the security of data in the cloud? 
 >There are several measures that can be taken to ensure the security of data in the cloud, including:
 >
 >* Encrypting data at rest and in transit
@@ -58,7 +58,7 @@ This list was created and mainteined by Andre Tenreiro ([LinkedIn](https://www.l
 >
 >First and foremost, I am very impressed with the company's mission and values. I believe that the work the company is doing aligns with my own personal goals and values, and I would be proud to be a part of such a mission-driven organization.
 >
->Additionally, I have done some research on the company and have been impressed with the innovative products and services that it offers. I am confident that working for this company would provide me with the opportunity to learn and grow as a professional, and to make a meaningful contribution to the >team and the company as a whole.
+>Additionally, I have done some research on the company and have been impressed with the innovative products and services that it offers. I am confident that working for this company would provide me with the opportunity to learn and grow as a professional, and to make a meaningful contribution to the team and the company as a whole.
 >
 >Finally, I am drawn to the company's culture and the opportunities for career development and advancement. I believe that this company would be a great fit for me personally, and I am excited about the prospect of joining the team and becoming a valuable member of the organization.
 
@@ -71,10 +71,10 @@ This list was created and mainteined by Andre Tenreiro ([LinkedIn](https://www.l
 >Here are some examples of cultural-fit questions and possible answers:
 >
 >1. How do you describe your work style?
->I would describe my work style as collaborative, proactive, and organized. I enjoy working with others to achieve a common goal and am always looking for >ways to improve processes and increase efficiency. I am also very focused and prioritize my work to ensure that tasks are completed on time and to a high >standard.
+>I would describe my work style as collaborative, proactive, and organized. I enjoy working with others to achieve a common goal and am always looking for ways to improve processes and increase efficiency. I am also very focused and prioritize my work to ensure that tasks are completed on time and to a high >standard.
 >
 >2. How do you handle conflict or disagreement in the workplace?
->I believe that it's important to approach conflict or disagreement in a calm and respectful manner. I try to listen to the other person's perspective and >consider their concerns before offering my own. I also try to find common ground and look for solutions that are mutually beneficial. If necessary, I am >open to seeking mediation or outside help to resolve the issue.
+>I believe that it's important to approach conflict or disagreement in a calm and respectful manner. I try to listen to the other person's perspective and consider their concerns before offering my own. I also try to find common ground and look for solutions that are mutually beneficial. If necessary, I am open to seeking mediation or outside help to resolve the issue.
 >
 >3. How do you approach teamwork and collaboration?
 >I believe that teamwork and collaboration are essential for success in any organization. I enjoy working with others and value the diverse perspectives and skills that team members bring to the table. I am a strong communicator and work well in both individual and team settings. I also try to foster an open and inclusive environment where all team members feel comfortable sharing their ideas and concerns.
@@ -119,7 +119,7 @@ To get an example answer, try this:
 >
 >1. What is your experience with project management methodologies, such as Agile or Waterfall?
 >
->I have experience with both Agile and Waterfall project management methodologies. I have used Agile in fast-paced environments where frequent iteration and flexibility are key, and have used Waterfall in more structured, predictable projects. I am familiar with the principles and tools of both approaches nd can adapt my approach to fit the needs of the project.
+>I have experience with both Agile and Waterfall project management methodologies. I have used Agile in fast-paced environments where frequent iteration and flexibility are key, and have used Waterfall in more structured, predictable projects. I am familiar with the principles and tools of both approaches and can adapt my approach to fit the needs of the project.
 >
 >2. How do you handle scope creep and scope change?
 >Scope creep and scope change are common challenges in project management. To handle these issues, I follow a structured process that includes:
