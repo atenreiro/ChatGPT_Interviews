@@ -145,7 +145,7 @@ To get an example answer, try this:
 >* Communicating clearly with the team and stakeholders about any risks or issues and their impact on the project
 
 ------------
-### Storytelling / Scenario-based Questions
+### Storytelling/Scenario-based Questions
 ------------
 **answer this interview question: "tell me a time you had a conflict with a colleague"**
 
