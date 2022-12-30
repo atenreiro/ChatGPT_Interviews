@@ -13,7 +13,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 
 
 
-**ℹ️ Note**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine.
+**:warning: Warning**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine. The most experienced interviewers will easily pick non-genuine or playbook answers. 
 
 ------------
 ### Table of Contents 
@@ -224,25 +224,32 @@ You can use personal impact statements for your CV cover letter (if applicable) 
 **give me examples of interview questions and answers for the amazon leadership principles**
 
 >1. Question: Can you provide an example of a time when you demonstrated customer obsession in your work?
+>
 >Answer: One time I demonstrated customer obsession was when I was working on a project to improve the user experience of a company's mobile app. I spent a lot of time talking to customers and gathering feedback on their pain points and needs. Based on this feedback, I identified several key areas where the app could be improved and made recommendations to the development team. The resulting changes were well-received by customers and led to a significant increase in user satisfaction.
 >
 >2. Question: How do you approach setting and communicating clear goals and expectations with your team?
+>
 >Answer: When setting and communicating goals and expectations with my team, I make sure to be clear and concise about what needs to be done and why it is important. I also involve team members in the goal-setting process to ensure that everyone has a sense of ownership and is committed to achieving the goals. I regularly check in with team members to provide feedback and support, and I am open to adjusting goals as needed based on changing circumstances.
 >
 >3. Question: Can you describe a time when you had to make a tough decision and how you approached it?
+>
 >Answer: One time I had to make a tough decision was when I was leading a project and we encountered a significant roadblock that threatened to delay the project timeline. After careful consideration, I made the difficult decision to cut a feature that was not critical to the project's success in order to stay on track. I communicated the decision to the team and explained the rationale behind it, and we were able to successfully deliver the project on time. Making this decision was not easy, but I knew it was necessary in order to ensure the overall success of the project.
 
 ## Frugality
 **give me examples of interview questions and answers for the amazon frugality principle**
 
 >1. Question: Can you provide an example of a time when you were able to reduce costs or increase efficiency in a project or business process?
+>
 >Answer: One time I was able to reduce costs and increase efficiency was when I was working on a project to automate a manual process at my previous company. The process was time-consuming and prone to errors, and it was costing the company a significant amount of money. I worked with a team to design and implement a new automated system that replaced the manual process. The new system not only saved time and reduced errors, but it also resulted in significant cost savings for the company.
 >
 >2. Question: How do you prioritize which expenses to focus on when trying to maximize value and minimize waste?
+>
 >Answer: When prioritizing expenses, I try to focus on areas where I can get the most value for my money. This often involves identifying and eliminating waste, as well as finding ways to do more with less. I also consider the long-term implications of different expenses and try to make decisions that will provide value over the long run.
 >
 >3. Question: How do you approach decision-making when it comes to choosing between different options that have different costs and benefits?
+>
 Answer: When making decisions about costs and benefits, I try to consider both the short-term and long-term implications. I carefully weigh the costs and benefits of different options and try to choose the one that provides the best value overall. I also consider the potential risks and uncertainties associated with each option and try to make decisions that are as informed as possible.
 >
 >4. Question: Can you describe a time when you had to make a trade-off between short-term cost savings and long-term value creation?
+>
 >Answer: One time I had to make a trade-off between short-term cost savings and long-term value creation was when I was working on a project to implement a new software system at my previous company. The initial proposal included a number of cost-cutting measures that would have resulted in significant short-term savings. However, after careful consideration, I decided that some of these measures would compromise the long-term value and usefulness of the system. I worked with the team to revise the proposal and find alternative ways to save costs while still delivering a high-quality system that would provide value over the long term.
