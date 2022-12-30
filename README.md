@@ -6,8 +6,12 @@ Here's a list that can be used as a reference - please modify the prompts to get
 
 **ℹ️ Note**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine
 
+### Table of Contents 
+- [General Questions](#General Questions)
+- [Culture Fit Questions](#culture-fit-questions)
 
-### General Questions
+
+## General Questions
 ------------
 **Give me examples of interview questions and answers for a [Cloud Engineer] role.**
 
