@@ -235,7 +235,7 @@ You can use personal impact statements for your CV cover letter (if applicable) 
 >
 >Answer: One time I had to make a tough decision was when I was leading a project and we encountered a significant roadblock that threatened to delay the project timeline. After careful consideration, I made the difficult decision to cut a feature that was not critical to the project's success in order to stay on track. I communicated the decision to the team and explained the rationale behind it, and we were able to successfully deliver the project on time. Making this decision was not easy, but I knew it was necessary in order to ensure the overall success of the project.
 
-## Frugality
+#### Frugality
 **give me examples of interview questions and answers for the amazon frugality principle**
 
 >1. Question: Can you provide an example of a time when you were able to reduce costs or increase efficiency in a project or business process?
@@ -253,3 +253,18 @@ Answer: When making decisions about costs and benefits, I try to consider both t
 >4. Question: Can you describe a time when you had to make a trade-off between short-term cost savings and long-term value creation?
 >
 >Answer: One time I had to make a trade-off between short-term cost savings and long-term value creation was when I was working on a project to implement a new software system at my previous company. The initial proposal included a number of cost-cutting measures that would have resulted in significant short-term savings. However, after careful consideration, I decided that some of these measures would compromise the long-term value and usefulness of the system. I worked with the team to revise the proposal and find alternative ways to save costs while still delivering a high-quality system that would provide value over the long term.
+
+#### Customer Obsession
+**give me examples of interview questions and answers for the amazon customer obsession principle**
+
+>1. Question: Can you provide an example of a time when you demonstrated customer obsession in your work?
+>
+>Answer: One time I demonstrated customer obsession was when I was working on a project to improve the user experience of a company's mobile app. I spent a lot of time talking to customers and gathering feedback on their pain points and needs. Based on this feedback, I identified several key areas where the app could be improved and made recommendations to the development team. The resulting changes were well-received by customers and led to a significant increase in user satisfaction.
+>
+>2. Question: How do you prioritize customer needs and feedback in your work?
+>
+>Answer: When prioritizing customer needs and feedback, I try to focus on the most pressing and impactful issues first. I also try to take a holistic view and consider how different customer needs and feedback fit together and might impact each other. I regularly review customer feedback and data to identify trends and areas for improvement, and I involve customers in the decision-making process whenever possible.
+>
+>3. Question: Can you describe a time when you had to make a tough decision that prioritized the needs of customers over other stakeholders?
+>
+>Answer: One time I had to make a tough decision that prioritized the needs of customers was when I was working on a project to redesign a company's website. The project involved a number of stakeholders with different priorities and interests. One stakeholder group wanted to prioritize the inclusion of certain features and content, while another group wanted to focus on design and aesthetics. After careful consideration, I made the decision to prioritize the needs and feedback of our customers, who had expressed a desire for a more streamlined and user-friendly website. While this decision was not popular with all stakeholders, it ultimately led to a significant increase in customer satisfaction and engagement.
