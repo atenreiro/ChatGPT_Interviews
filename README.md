@@ -7,11 +7,13 @@ Here's a list that can be used as a reference - please modify the prompts to get
 
 For these examples, I used the "Cloud Engineer" as the role. Modify the text inside the "[ ]" with the customised role or other information.
 
-**ℹ️ Note**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine.
-
 :point_right: Want to contribute to this list? Add your contribution as a **Pull request**.
 
 :star: If you like this repo, please **star** it.
+
+
+
+**ℹ️ Note**: It is not recommended that you copy and paste the answers verbatim. Instead, use them as a guide and tailor your responses to be authentic and genuine.
 
 ------------
 ### Table of Contents 
@@ -160,6 +162,22 @@ To get an example answer, try this:
 >From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed f my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also earned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
 >
 >Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
+
+**answer this [cloud computing] interview question: "tell me a time you were wrong"**
+>One time I was wrong was when I was working on a project to migrate a client's on-premises infrastructure to the cloud. I had recommended a particular cloud provider and architecture based on my initial analysis of the client's needs and budget. However, after we began the migration process, we discovered that the chosen cloud provider did not have the necessary features and capabilities to support the client's workload.
+>
+>I realized that I had made an error in my initial assessment and had not taken into account all of the client's requirements. This caused delays and additional costs as we had to pivot to a different cloud provider and redesign the architecture.
+>
+>I learned from this experience the importance of thoroughly evaluating all requirements and doing due diligence before making recommendations. It was a valuable lesson that has helped me to be more thorough and considerate in my future work.
+
+**answer this cloud computing interview question: "tell me a time you had to make a decision with little or no information"**
+>One time I had to make a decision with little or no information was when I was working on a project to deploy a new application to the cloud. The application was being developed by a third-party vendor, and we were responsible for setting up the cloud infrastructure to host it.
+>
+>However, the vendor was delayed in providing us with the necessary information about the application's requirements and dependencies. We were under a tight deadline to get the application up and running, and we had to make a decision about how to proceed without having all of the necessary information.
+>
+>After considering our options, we decided to proceed with setting up a basic cloud infrastructure that would meet the minimum requirements of the application. We also put in place monitoring and alerting systems to help us quickly identify and resolve any issues that might arise once the application was deployed.
+>
+>This decision allowed us to meet the deadline and get the application up and running on schedule, even though we did not have all of the necessary information. However, it also required us to be proactive and proactive in addressing any issues that arose. In hindsight, it would have been better to have more information before making this decision, but given the circumstances, I believe it was the best course of action at the time.
 
 ------------
 ### Ask the Interviewer
