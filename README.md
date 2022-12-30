@@ -17,7 +17,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 - [Project Management Questions](#project-management-questions)
 - [Storytelling / Scenario-based Questions](#StorytellingScenario-based-Questions)
 - [Ask the Interviewer](#ask-the-interviewer)
-- [Impact Statement](#impact-statement)
+- [Personal Impact Statement](#impact-statement)
 
 
 
@@ -44,16 +44,16 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 >* Ensuring compliance with relevant regulations and industry standards
 >
 >Describe a project you worked on where you used cloud computing.
->One project I worked on was the migration of a large e-commerce platform to the cloud. My team and I worked closely with the business to assess their >current infrastructure and determine the best approach for the migration. We then designed and implemented a new cloud-based architecture that provided >the scalability and performance needed to support the platform's growth. The migration was a success, and the business was able to realize significant >cost savings and improve their overall performance.
+>One project I worked on was the migration of a large e-commerce platform to the cloud. My team and I worked closely with the business to assess their current infrastructure and determine the best approach for the migration. We then designed and implemented a new cloud-based architecture that provided the scalability and performance needed to support the platform's growth. The migration was a success, and the business was able to realize significant cost savings and improve their overall performance.
 
 **answer this interview question: "why do you want to work for this company?"**
 >There are several reasons why I want to work for this company.
 >
->First and foremost, I am very impressed with the company's mission and values. I believe that the work the company is doing aligns with my own personal >goals and values, and I would be proud to be a part of such a mission-driven organization.
+>First and foremost, I am very impressed with the company's mission and values. I believe that the work the company is doing aligns with my own personal goals and values, and I would be proud to be a part of such a mission-driven organization.
 >
->Additionally, I have done some research on the company and have been impressed with the innovative products and services that it offers. I am confident >that working for this company would provide me with the opportunity to learn and grow as a professional, and to make a meaningful contribution to the >team and the company as a whole.
+>Additionally, I have done some research on the company and have been impressed with the innovative products and services that it offers. I am confident that working for this company would provide me with the opportunity to learn and grow as a professional, and to make a meaningful contribution to the >team and the company as a whole.
 >
->Finally, I am drawn to the company's culture and the opportunities for career development and advancement. I believe that this company would be a great >fit for me personally, and I am excited about the prospect of joining the team and becoming a valuable member of the organization.
+>Finally, I am drawn to the company's culture and the opportunities for career development and advancement. I believe that this company would be a great fit for me personally, and I am excited about the prospect of joining the team and becoming a valuable member of the organization.
 
 
 ------------
@@ -73,7 +73,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 >I believe that teamwork and collaboration are essential for success in any organization. I enjoy working with others and value the diverse perspectives and skills that team members bring to the table. I am a strong communicator and work well in both individual and team settings. I also try to foster an open and inclusive environment where all team members feel comfortable sharing their ideas and concerns.
 >
 >4. How do you handle challenging tasks or projects?
->I approach challenging tasks or projects with a positive attitude and a willingness to learn. I am a problem-solver and enjoy finding creative solutions >to difficult challenges. I also seek guidance and feedback from my colleagues and superiors when needed, and am open to seeking additional training or resources to improve my skills and knowledge.
+>I approach challenging tasks or projects with a positive attitude and a willingness to learn. I am a problem-solver and enjoy finding creative solutions to difficult challenges. I also seek guidance and feedback from my colleagues and superiors when needed, and am open to seeking additional training or resources to improve my skills and knowledge.
 
 ------------
 ### Technical Questions
@@ -95,7 +95,7 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 To get an example answer, try this: 
 **answer this interview question: "How do you determine the right cloud platform for a given workload?"**
 >There are several factors to consider when determining the right cloud platform for a given workload. Some key considerations might include:
->* Cost: Different cloud platforms have different pricing models and cost structures, so it's important to carefully consider the total cost of ownership > when making a decision.
+>* Cost: Different cloud platforms have different pricing models and cost structures, so it's important to carefully consider the total cost of ownership when making a decision.
 >* Performance: Different cloud platforms offer different levels of performance, so it's important to consider the specific requirements of the workload and choose a platform that can meet those needs.
 >* Scalability: If the workload is expected to grow significantly over time, it's important to choose a cloud platform that can scale to meet those needs.
 >* Security: Different cloud platforms offer different security features and controls, so it's important to consider the specific security requirements of the workload and choose a platform that can provide the necessary protection.
@@ -112,7 +112,7 @@ To get an example answer, try this:
 >
 >1. What is your experience with project management methodologies, such as Agile or Waterfall?
 >
->I have experience with both Agile and Waterfall project management methodologies. I have used Agile in fast-paced environments where frequent iteration >and flexibility are key, and have used Waterfall in more structured, predictable projects. I am familiar with the principles and tools of both approaches >and can adapt my approach to fit the needs of the project.
+>I have experience with both Agile and Waterfall project management methodologies. I have used Agile in fast-paced environments where frequent iteration and flexibility are key, and have used Waterfall in more structured, predictable projects. I am familiar with the principles and tools of both approaches nd can adapt my approach to fit the needs of the project.
 >
 >2. How do you handle scope creep and scope change?
 >Scope creep and scope change are common challenges in project management. To handle these issues, I follow a structured process that includes:
@@ -146,14 +146,14 @@ To get an example answer, try this:
 >
 > I was focused on breaking the project down into smaller tasks and delegating them to the team, while my colleague preferred a more hands-on approach and wanted to do everything themselves. This led to some misunderstandings and miscommunications, and we ended up working at cross purposes.
 >
-> To resolve the conflict, we sat down and had a candid conversation about our different approaches and what was driving them. We were able to listen to > each other's perspectives and find a compromise that worked for both of us. We ended up completing the project on time and received positive feedback from the client.
+> To resolve the conflict, we sat down and had a candid conversation about our different approaches and what was driving them. We were able to listen to ach other's perspectives and find a compromise that worked for both of us. We ended up completing the project on time and received positive feedback from the client.
 >
 > Through this experience, I learned the importance of effective communication and finding a way to work through conflicts with colleagues. I now make a > point to have open and honest conversations with my team members when conflicts arise, and to find solutions that work for everyone.
 
 **answer this interview question: "tell me a time you failed and what have you learnt from it"**
->One time I failed was when I was working on a project with a team at a previous job. We were tasked with creating a new feature for a software product >and I was in charge of a specific component of the project. However, I didn't properly communicate my progress and dependencies to the rest of the team, >and as a result, the project ended up being delayed.
+>One time I failed was when I was working on a project with a team at a previous job. We were tasked with creating a new feature for a software product nd I was in charge of a specific component of the project. However, I didn't properly communicate my progress and dependencies to the rest of the team, nd as a result, the project ended up being delayed.
 >
->From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed >of my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also >learned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
+>From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed f my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also earned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
 >
 >Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
 
@@ -174,8 +174,10 @@ To get an example answer, try this:
 >Asking questions at the end of the interview can show that you are interested in the job and the company, and it can also help you clarify any uncertainties or gather more information about the role. It's important to ask questions that are relevant and appropriate, and to avoid asking questions that have already been answered during the interview.
 
 ------------
-### Impact Statement
+### Personal Impact Statement
 ------------
+You can use personal impact statements for your CV cover letter (if applicable) or incoporate it as part of the "tell me about yourself..." question.
+
 **for my CV write a mission impact statement that highlights my 5 years of experience and multiple projects I delivered such as an E-Commerce platform.**
 >Over the past 5 years, I have dedicated myself to delivering innovative and impactful projects that drive business growth and customer satisfaction. My >diverse skill set and experience in project management have allowed me to successfully lead and deliver multiple projects, including the development of >a comprehensive E-Commerce platform.
 >
