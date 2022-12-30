@@ -13,11 +13,11 @@ For these examples, I used the "Cloud Engineer" as the role. Modify the text ins
 ### Table of Contents 
 - [General Questions](#general-questions)
 - [Culture Fit Questions](#culture-fit-questions)
-- [Technical Questions](#architecture-fit-questions)
+- [Technical Questions](#technical-questions)
 - [Project Management Questions](#project-management-questions)
-- [Storytelling / Scenario-based Questions](#StorytellingScenario-based-Questions)
+- [Storytelling / Scenario-based Questions](#storytellingSsenariobased-Questions)
 - [Ask the Interviewer](#ask-the-interviewer)
-- [Personal Impact Statement](#impact-statement)
+- [Personal Impact Statement](#personal-impact-statement)
 
 
 
