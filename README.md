@@ -148,9 +148,9 @@ Modify the text inside the "[ ]" with the customised role or other information.
 ------------
 ### Impact Statement
 ------------
-**for my CV write a mission impact statement for a cloud engineer role**
+**for my CV write a mission impact statement that highlights my 5 years of experience and multiple projects I delivered such as an E-Commerce platform.**
 >Over the past 5 years, I have dedicated myself to delivering innovative and impactful projects that drive business growth and customer satisfaction. My >diverse skill set and experience in project management have allowed me to successfully lead and deliver multiple projects, including the development of >a comprehensive E-Commerce platform.
 >
 >Through my leadership and strategic thinking, I have consistently delivered projects on time and within budget, while also exceeding client expectations. My strong communication skills and ability to work effectively with cross-functional teams have been instrumental in my success.
 >
->I am passionate about using my expertise to drive positive change and make a lasting impact in the industry. I am confident that my skills and >experience make me a valuable asset to any organization looking to drive growth and innovation."
+>I am passionate about using my expertise to drive positive change and make a lasting impact in the industry. I am confident that my skills and experience make me a valuable asset to any organization looking to drive growth and innovation."
