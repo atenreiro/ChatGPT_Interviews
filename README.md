@@ -71,7 +71,7 @@ This list was created and mainteined by Andre Tenreiro ([LinkedIn](https://www.l
 >Here are some examples of cultural-fit questions and possible answers:
 >
 >1. How do you describe your work style?
->I would describe my work style as collaborative, proactive, and organized. I enjoy working with others to achieve a common goal and am always looking for ways to improve processes and increase efficiency. I am also very focused and prioritize my work to ensure that tasks are completed on time and to a high >standard.
+>I would describe my work style as collaborative, proactive, and organized. I enjoy working with others to achieve a common goal and am always looking for ways to improve processes and increase efficiency. I am also very focused and prioritize my work to ensure that tasks are completed on time and to a high standard.
 >
 >2. How do you handle conflict or disagreement in the workplace?
 >I believe that it's important to approach conflict or disagreement in a calm and respectful manner. I try to listen to the other person's perspective and consider their concerns before offering my own. I also try to find common ground and look for solutions that are mutually beneficial. If necessary, I am open to seeking mediation or outside help to resolve the issue.
@@ -155,12 +155,12 @@ To get an example answer, try this:
 >
 > To resolve the conflict, we sat down and had a candid conversation about our different approaches and what was driving them. We were able to listen to ach other's perspectives and find a compromise that worked for both of us. We ended up completing the project on time and received positive feedback from the client.
 >
-> Through this experience, I learned the importance of effective communication and finding a way to work through conflicts with colleagues. I now make a > point to have open and honest conversations with my team members when conflicts arise, and to find solutions that work for everyone.
+> Through this experience, I learned the importance of effective communication and finding a way to work through conflicts with colleagues. I now make a point to have open and honest conversations with my team members when conflicts arise, and to find solutions that work for everyone.
 
 **answer this interview question: "tell me a time you failed and what have you learnt from it"**
->One time I failed was when I was working on a project with a team at a previous job. We were tasked with creating a new feature for a software product nd I was in charge of a specific component of the project. However, I didn't properly communicate my progress and dependencies to the rest of the team, nd as a result, the project ended up being delayed.
+>One time I failed was when I was working on a project with a team at a previous job. We were tasked with creating a new feature for a software product and I was in charge of a specific component of the project. However, I didn't properly communicate my progress and dependencies to the rest of the team, and as a result, the project ended up being delayed.
 >
->From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed f my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also earned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
+>From this experience, I learned the importance of clear communication and organization in teamwork. I realized that it's crucial to keep others informed of my progress and to make sure that I'm properly coordinating with the rest of the team to ensure that everything is moving forward smoothly. I also earned to be more proactive in seeking help or clarification when needed, rather than waiting for issues to arise.
 >
 >Overall, this failure taught me the value of effective communication and collaboration, and I made sure to apply these lessons to future projects.
 
